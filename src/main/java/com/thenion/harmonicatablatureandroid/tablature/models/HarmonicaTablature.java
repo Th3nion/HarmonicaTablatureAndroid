@@ -1,4 +1,4 @@
-package com.thenion.harmonicatablatureandroid.tablature;
+package com.thenion.harmonicatablatureandroid.tablature.models;
 
 import java.util.ArrayList;
 
